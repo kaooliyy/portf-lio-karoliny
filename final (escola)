@@ -1,0 +1,9 @@
+  <footer class="container py-5">
+        <h2>Entre em contato</h2>
+        <div>
+            <a href="https://github.com/kaooliyy">GitHub</a>
+        </div>
+        <p class="my-5 text-center"> 2024. Produzido por Karoliny</p>
+    </footer>
+</body>
+</html>
